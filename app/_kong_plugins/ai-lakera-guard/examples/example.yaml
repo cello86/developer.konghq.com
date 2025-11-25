@@ -2,7 +2,7 @@ description: '' # Used for metadata and search; don't use markdown formatting
 
 # extended_description: '' # Displays on the page; can use any markdown formatting
 
-title: ''
+title: 'test'
 
 weight: 900
 
@@ -17,7 +17,7 @@ weight: 900
 config: # plugin config in yaml format goes here
 
 min_version:
-  gateway: '3.12'
+  gateway: '3.13'
 
 tools:
   - deck
